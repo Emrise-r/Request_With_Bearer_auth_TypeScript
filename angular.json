@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "request-auth"
+    }
+  },
+  "defaultProject": "request-auth",
+  "cli": {
+    "analytics": false
+  }
 }
